@@ -8,3 +8,8 @@ node_modules/
 .idea
 storybook-static
 __diff_output__/
+packages/.DS_Store
+packages/cli/.DS_Store
+packages/server/.DS_Store
+packages/utils/.DS_Store
+packages/viewer/.DS_Store
